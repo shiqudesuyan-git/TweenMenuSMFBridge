@@ -1,0 +1,8 @@
+{
+  "papyrus_event": "TweenMenuSMFBridge_Open",
+  "menuName": "SKSE MOD SETTINGS",
+  "icon": "scroll",
+  "priority": 80,
+  "category": "right"
+}
+
